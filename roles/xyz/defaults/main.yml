@@ -1,0 +1,10 @@
+---
+# defaults file for xyz
+
+var1: "default var1"
+var2: "default var2"
+var3: "default var3"
+var4: "default var4"
+var5: "default var5"
+var6: "default var6"
+var7: "default var7"

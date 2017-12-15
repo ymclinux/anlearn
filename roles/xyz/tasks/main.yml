@@ -1,0 +1,9 @@
+---
+# tasks file for xyz
+- name: Placing config files
+  template:
+    src: file1.j2
+    dest: /etc/file1
+    owner: root
+    group: root
+    mode: 0644

@@ -1,0 +1,9 @@
+---
+
+- name: Apply abc playbook
+  hosts: aditya
+  remote_user: root
+  become: true
+  gather_facts: yes
+  roles:
+    - xyz 

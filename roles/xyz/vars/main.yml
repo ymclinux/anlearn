@@ -1,0 +1,5 @@
+---
+# vars file for xyz
+
+var3: "var3 in role var file"
+var4: "var4 in role var file"
